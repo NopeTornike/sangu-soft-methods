@@ -1,4 +1,4 @@
-#Assignments 1-2
+# Assignments 1-2
 
-##Author
+## Author
 Tornike Menteshashvili
